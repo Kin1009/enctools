@@ -82,3 +82,5 @@ Nullify:
 When the output file is not provided, the output file is the input file.  
 The program is in testing, so there are a few exceptions that the program didn't catch.
 The program may won't work in some binary files (.exe, ...)
+# Special
+Thanks ChatGPT for corprating with me to make this program.
